@@ -1,29 +1,5 @@
-# digitalquanzhou
+## Next.js App Router Course - Starter
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-cnpm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-cnpm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-cnpm run build
-```
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
